@@ -1,0 +1,60 @@
+E:\c#_web_api\PT1\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\c#_web_api\PT1\Repository\bin\Debug\net6.0\Repository.dll
+E:\c#_web_api\PT1\Repository\bin\Debug\net6.0\Repository.pdb
+E:\c#_web_api\PT1\Repository\bin\Debug\net6.0\Entities.dll
+E:\c#_web_api\PT1\Repository\bin\Debug\net6.0\Entities.pdb
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.dll
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\Repository.pdb
+E:\c#_web_api\PT1\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Repository\obj\Debug\net6.0\ref\Repository.dll

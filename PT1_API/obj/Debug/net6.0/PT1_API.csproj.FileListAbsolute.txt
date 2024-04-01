@@ -1,0 +1,315 @@
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\appsettings.Development.json
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\appsettings.json
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\PT1_API.exe
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\PT1_API.deps.json
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\PT1_API.runtimeconfig.json
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\PT1_API.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\PT1_API.pdb
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Humanizer.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.AssemblyReference.cache
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfoInputs.cache
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfo.cs
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CoreCompileInputs.cache
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cs
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cache
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.PT1_API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.build.PT1_API.props
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PT1_API.props
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PT1_API.props
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.build.json
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.development.json
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\scopedcss\bundle\PT1_API.styles.css
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CopyComplete
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.dll
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\refint\PT1_API.dll
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.pdb
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\PT1_API.genruntimeconfig.cache
+E:\c#_web_api\PT1\PT1_API\obj\Debug\net6.0\ref\PT1_API.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Entities.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Repository.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Entities.pdb
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Repository.pdb
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\AutoMapper.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Service.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Shared.dll
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Service.pdb
+E:\c#_web_api\PT1\PT1_API\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\appsettings.Development.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\appsettings.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\PT1_API.exe
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\PT1_API.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\PT1_API.runtimeconfig.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\AutoMapper.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Humanizer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Service.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Service.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.PT1_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.build.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\scopedcss\bundle\PT1_API.styles.css
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\refint\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\PT1_API.genruntimeconfig.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\obj\Debug\net6.0\ref\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\refint\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\AutoMapper.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Humanizer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Service.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Service.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.PT1_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.build.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\scopedcss\bundle\PT1_API.styles.css
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\appsettings.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\PT1_API.exe
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\PT1_API.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\PT1_API.runtimeconfig.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\bin\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\PT1_API.genruntimeconfig.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\PT1_API\obj\Debug\net6.0\ref\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\appsettings.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\PT1_API.exe
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\PT1_API.deps.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\PT1_API.runtimeconfig.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\AutoMapper.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Humanizer.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Repository.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Service.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Repository.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Service.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.PT1_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.build.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PT1_API.props
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\scopedcss\bundle\PT1_API.styles.css
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\refint\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.genruntimeconfig.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\ref\PT1_API.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\MailKit.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\MimeKit.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\bin\Debug\net6.0\Telegram.Bot.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\PT1_API\obj\Debug\net6.0\PT1_API.MvcApplicationPartsAssemblyInfo.cs

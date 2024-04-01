@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kuOPx1jXD0vacICk4HFgTJylf0/qmQ+xQH8CDLwUMcAamg04z3bOkepVqn7w2f7NXdC+T10k4jUIKmk1CyPXow==",
+  "success": true,
+  "projectFilePath": "D:\\NGSD Study\\Ki 8 FPTU\\PRN231\\PRN231_Project\\prn231_be\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.4.0\\microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.4.0\\microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.identitymodel.logging\\7.4.0\\microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.4.0\\microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,57 @@
+E:\c#_web_api\PT1\Shared\bin\Debug\net6.0\Shared.deps.json
+E:\c#_web_api\PT1\Shared\bin\Debug\net6.0\Shared.dll
+E:\c#_web_api\PT1\Shared\bin\Debug\net6.0\Shared.pdb
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.dll
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\refint\Shared.dll
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\Shared.pdb
+E:\c#_web_api\PT1\Shared\obj\Debug\net6.0\ref\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\ref\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\PT1\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\Hoc tieng anh\Prn231_Project\Shared\obj\Debug\net6.0\ref\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\bin\Debug\net6.0\Shared.deps.json
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\bin\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\bin\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\bin\Debug\net6.0\Entities.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\bin\Debug\net6.0\Entities.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.csproj.CopyComplete
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\refint\Shared.dll
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\Shared.pdb
+D:\NGSD Study\Ki 8 FPTU\PRN231\PRN231_Project\prn231_be\Shared\obj\Debug\net6.0\ref\Shared.dll
